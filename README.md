@@ -16,8 +16,8 @@
 
  <div>
   <a href="https://github.com/hariyebk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariyebk-DEV&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariyebk-DEV&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariyebk&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariyebk&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <!-- TODO: Make technologies links takes you to repositories -->
